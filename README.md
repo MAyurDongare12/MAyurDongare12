@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>Hi, I'm Mayur Dongare, an Information Technology student and aspiring Web Developer passionate about building responsive and user-friendly web applications.<br><br>💻 Skilled in HTML, CSS, JavaScript, Reactjs, C++, Python & SQL  <br>🚀 Experienced through Front-End & AI internships  <br>🌱 Currently learning backend, Advanced backend & AI concepts  <br>🤝 Open to collaboration on web projects and open-source<br><br>⚡ Turning real-world ideas into practical digital solutions.
+👋 About Me<br><br>Hi, I'm Mayur Dongare, an Information Technology student and aspiring Web Developer passionate about building responsive and user-friendly web applications.<br><br>💻 Skilled in HTML, CSS, JavaScript, Reactjs, Nodejs, Expressjs, MongoDB, C++, Python & SQL  <br>🚀 Experienced through Front-End & AI internships  <br>🌱 Currently learning backend, Advanced backend & AI concepts  <br>🤝 Open to collaboration on web projects and open-source<br><br>⚡ Turning real-world ideas into practical digital solutions.
 
 
 ## 🌐 Socials:
